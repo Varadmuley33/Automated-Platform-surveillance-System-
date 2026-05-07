@@ -11,7 +11,7 @@ import psutil        # Used to fetch system information
 import time          # Used for time-related functions
 import sys           # Used to handle command line arguments
 import os            # Used for file and directory operations
-
+    
 # Global constant for formatting output
 Border = "-" * 75
 
