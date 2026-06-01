@@ -14,7 +14,7 @@ import os            # Used for file and directory operations
     
 # Global constant for formatting output
 Border = "-" * 75
-
+    
 
 ##############################################################
 # Function Name : CreateLog
